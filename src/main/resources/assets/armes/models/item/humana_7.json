@@ -1,0 +1,6 @@
+{
+  "parent": "armes:custom/humana",
+  "textures": {
+    "iron_sword": "armes:blocks/iron_sword"
+  }
+}

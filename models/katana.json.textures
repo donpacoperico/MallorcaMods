@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black",
+        "1": "brass",
+        "3": "greyj",
+        "4": "greyk",
+        "5": "reda"
+      },
+      "name": "default"
+    }
+  }
+}

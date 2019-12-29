@@ -1,0 +1,9 @@
+{
+  "parent": "armes:custom/trident_in_hand",
+  "textures": {
+    "0": "armes:blocks/trident_tex1",
+    "1": "armes:blocks/trident_tex2",
+    "2": "armes:blocks/trident_tex3",
+    "3": "armes:blocks/trident_tex4"
+  }
+}

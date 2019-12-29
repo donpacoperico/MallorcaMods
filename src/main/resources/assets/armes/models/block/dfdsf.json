@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "armes:blocks/black",
+    "up": "armes:blocks/black",
+    "north": "armes:blocks/bronze5",
+    "east": "armes:blocks/black",
+    "south": "armes:blocks/",
+    "west": "armes:blocks/black",
+    "particle": "armes:blocks/black"
+  }
+}

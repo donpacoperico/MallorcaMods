@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "diamond_axe": "diamond_axe"
+      },
+      "name": "default"
+    }
+  }
+}

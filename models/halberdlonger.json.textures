@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "brown",
+        "1": "greyd",
+        "2": "alberd",
+        "3": "alabardes"
+      },
+      "name": "default"
+    }
+  }
+}

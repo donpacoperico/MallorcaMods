@@ -1,0 +1,31 @@
+{
+  "_fv": 4,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "bronze3",
+    "customModelName": "humana:default",
+    "name": "ESPADA LARGA 1",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 4.0,
+    "enchantability": 0,
+    "damageVsEntity": 7.0,
+    "usageCount": 10,
+    "blocksAffected": [
+      {
+        "value": "Blocks.IRON_ORE"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.IRON_ORE"
+      }
+    ]
+  }
+}

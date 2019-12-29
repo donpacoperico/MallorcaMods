@@ -1,0 +1,68 @@
+{
+  "_fv": 4,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "containerBlock": "Dfdsf",
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 0,
+          "name": "Slot #0",
+          "x": 302,
+          "y": 150
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "inventory": "inherited",
+          "id": 1,
+          "name": "Slot #1",
+          "x": 372,
+          "y": 150
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "inventory": "inherited",
+          "id": 2,
+          "name": "Slot #2",
+          "x": 481,
+          "y": 149
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rsz_2795.png",
+          "name": "rsz_2795.png",
+          "x": 346,
+          "y": 157
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rsz_165a52c54c5dc8abdde4f517b03f5ee337f78de61da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905ccb9558d135c6627fbe265fa4dab9d.png",
+          "name": "rsz_165a52c54c5dc8abdde4f517b03f5ee337f78de61da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905ccb9558d135c6627fbe265fa4dab9d.png",
+          "x": 294,
+          "y": 89
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

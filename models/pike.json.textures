@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black",
+        "1": "brass",
+        "2": "trident_tex2"
+      },
+      "name": "default"
+    }
+  }
+}

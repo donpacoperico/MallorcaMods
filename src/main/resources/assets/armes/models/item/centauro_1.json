@@ -1,0 +1,6 @@
+{
+  "parent": "armes:custom/prova",
+  "textures": {
+    "mesh_palette": "armes:blocks/meow"
+  }
+}
