@@ -1,0 +1,6 @@
+{
+  "parent": "armes:custom/cimitarra",
+  "textures": {
+    "iron_sword": "armes:blocks/cimitarra"
+  }
+}

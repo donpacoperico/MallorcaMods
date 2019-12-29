@@ -1,0 +1,6 @@
+{
+  "parent": "armes:custom/twohanded_greatsword",
+  "textures": {
+    "mesh_palette": "armes:blocks/mesh_palette"
+  }
+}

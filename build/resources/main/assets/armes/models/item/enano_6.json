@@ -1,0 +1,6 @@
+{
+  "parent": "armes:custom/diamond_axe",
+  "textures": {
+    "diamond_axe": "armes:blocks/diamond_axe"
+  }
+}

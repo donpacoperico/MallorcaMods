@@ -1,0 +1,9 @@
+{
+  "parent": "armes:custom/halberdlonger",
+  "textures": {
+    "0": "armes:blocks/brown",
+    "1": "armes:blocks/greyd",
+    "2": "armes:blocks/alberd",
+    "3": "armes:blocks/alabardes"
+  }
+}

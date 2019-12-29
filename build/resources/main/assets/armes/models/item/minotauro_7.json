@@ -1,0 +1,6 @@
+{
+  "parent": "armes:custom/maza_orco",
+  "textures": {
+    "diamond_sword": "armes:blocks/maza_orco"
+  }
+}

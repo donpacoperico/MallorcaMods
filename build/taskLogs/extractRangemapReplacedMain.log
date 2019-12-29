@@ -1,0 +1,319 @@
+Unsupposrted library path: C:\Users\Pepe\MCreatorWorkspaces\MallorcaCraft\build\classes\java\api
+Unsupposrted library path: C:\Users\Pepe\MCreatorWorkspaces\MallorcaCraft\build\resources\api
+Symbol range map extraction starting
+Processing 105 files
+startProcessing "net/mcreator/armes/ClientProxyarmes.java" md5: cd4f9def8e2a7e9a759c14dc81d3e44d
+endProcessing "net/mcreator/armes/ClientProxyarmes.java"
+
+startProcessing "net/mcreator/armes/Elementsarmes.java" md5: eeeaba82a162b5f6161cc3183c04caa6
+endProcessing "net/mcreator/armes/Elementsarmes.java"
+
+startProcessing "net/mcreator/armes/IProxyarmes.java" md5: 9bed6653ab7c10fd28ab618f5095adc3
+endProcessing "net/mcreator/armes/IProxyarmes.java"
+
+startProcessing "net/mcreator/armes/MCreatorARACNE_1.java" md5: c11d0012e245e577f7ef04f1f446ac5e
+endProcessing "net/mcreator/armes/MCreatorARACNE_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorARACNE_2.java" md5: 377ede6237aac7a785090e805d30cea2
+endProcessing "net/mcreator/armes/MCreatorARACNE_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorARACNE_3.java" md5: e460d13bdc9db7ec48535b6a1972b12e
+endProcessing "net/mcreator/armes/MCreatorARACNE_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorARACNE_4.java" md5: 7d3ef5ec255188e48883860986181ee7
+endProcessing "net/mcreator/armes/MCreatorARACNE_4.java"
+
+startProcessing "net/mcreator/armes/MCreatorARACNE_5.java" md5: 4428ce220c733df3f2e9141b4eed8818
+endProcessing "net/mcreator/armes/MCreatorARACNE_5.java"
+
+startProcessing "net/mcreator/armes/MCreatorARACNE_6.java" md5: c623b16c0ffc3e456d067e69e7ea5bd5
+endProcessing "net/mcreator/armes/MCreatorARACNE_6.java"
+
+startProcessing "net/mcreator/armes/MCreatorARACNE_7.java" md5: a73ddfafe6d833613d0f9db5789c4e88
+endProcessing "net/mcreator/armes/MCreatorARACNE_7.java"
+
+startProcessing "net/mcreator/armes/MCreatorARACNE_8.java" md5: ded8f39811bbece9fff966f935d52ea4
+endProcessing "net/mcreator/armes/MCreatorARACNE_8.java"
+
+startProcessing "net/mcreator/armes/MCreatorARACNE_9.java" md5: 83cbe100d675e7849a50755fa458236b
+endProcessing "net/mcreator/armes/MCreatorARACNE_9.java"
+
+startProcessing "net/mcreator/armes/MCreatorCENTAURO_1.java" md5: 1b8b34f04022ed78f421b828dcc74b60
+endProcessing "net/mcreator/armes/MCreatorCENTAURO_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorCENTAURO_2.java" md5: f78376125493e881c46d5ec28669660d
+endProcessing "net/mcreator/armes/MCreatorCENTAURO_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorCENTAURO_3.java" md5: 46f916e79a9d1efc17ef7a468ff0a8f9
+endProcessing "net/mcreator/armes/MCreatorCENTAURO_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorCENTAURO_4.java" md5: 2f38a5012e54ee21b803c0d5bd1dfd66
+endProcessing "net/mcreator/armes/MCreatorCENTAURO_4.java"
+
+startProcessing "net/mcreator/armes/MCreatorCENTAURO_5.java" md5: f0fc038109507bb2545c86eba6ddbcf7
+endProcessing "net/mcreator/armes/MCreatorCENTAURO_5.java"
+
+startProcessing "net/mcreator/armes/MCreatorCENTAURO_6.java" md5: c20eb66a6add6926bc87b9bca63b2137
+endProcessing "net/mcreator/armes/MCreatorCENTAURO_6.java"
+
+startProcessing "net/mcreator/armes/MCreatorCENTAURO_7.java" md5: 39e6920e4231ac4198fccd940f9efc3c
+endProcessing "net/mcreator/armes/MCreatorCENTAURO_7.java"
+
+startProcessing "net/mcreator/armes/MCreatorCENTAURO_8.java" md5: 09d858f932345ee9cc2a89aeeebd4c33
+endProcessing "net/mcreator/armes/MCreatorCENTAURO_8.java"
+
+startProcessing "net/mcreator/armes/MCreatorCENTAURO_9.java" md5: 191564f2a58bd7247e263839611dfe56
+endProcessing "net/mcreator/armes/MCreatorCENTAURO_9.java"
+
+startProcessing "net/mcreator/armes/MCreatorDfdsf.java" md5: 73d343045f7f9e3d45dffb4441fd6e49
+endProcessing "net/mcreator/armes/MCreatorDfdsf.java"
+
+startProcessing "net/mcreator/armes/MCreatorDfdsfOnBlockRightClicked.java" md5: 75f24ddde01249992de3480a9510f756
+endProcessing "net/mcreator/armes/MCreatorDfdsfOnBlockRightClicked.java"
+
+startProcessing "net/mcreator/armes/MCreatorDwadw.java" md5: 43ed192775828cc9b6c2b79cd5ab7228
+endProcessing "net/mcreator/armes/MCreatorDwadw.java"
+
+startProcessing "net/mcreator/armes/MCreatorELFOS_1.java" md5: 2b462ebee5c50dfac11a07c21a0c5a52
+endProcessing "net/mcreator/armes/MCreatorELFOS_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorELFOS_2.java" md5: 292fc02a8d6f503c2ac09a0f90c1a6b4
+endProcessing "net/mcreator/armes/MCreatorELFOS_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorELFOS_3.java" md5: 8a0b9f6444babc8b3913964bb94e4faf
+endProcessing "net/mcreator/armes/MCreatorELFOS_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorELFOS_4.java" md5: fbeb74f4cc0e438c4ed23dfef27e5163
+endProcessing "net/mcreator/armes/MCreatorELFOS_4.java"
+
+startProcessing "net/mcreator/armes/MCreatorELFOS_5.java" md5: e955a1a058b1708edff7b34e10308673
+endProcessing "net/mcreator/armes/MCreatorELFOS_5.java"
+
+startProcessing "net/mcreator/armes/MCreatorELFOS_6.java" md5: 4dd8c5968d8eecc7092a4d12453a4698
+endProcessing "net/mcreator/armes/MCreatorELFOS_6.java"
+
+startProcessing "net/mcreator/armes/MCreatorELFOS_7.java" md5: 45425ea1100e6e43cfeef626051cc090
+endProcessing "net/mcreator/armes/MCreatorELFOS_7.java"
+
+startProcessing "net/mcreator/armes/MCreatorELFOS_8.java" md5: 438528dc6e3988619a22ee2730e28740
+endProcessing "net/mcreator/armes/MCreatorELFOS_8.java"
+
+startProcessing "net/mcreator/armes/MCreatorELFOS_9.java" md5: 945af8073fe790b68e4a1e6c08ded25d
+endProcessing "net/mcreator/armes/MCreatorELFOS_9.java"
+
+startProcessing "net/mcreator/armes/MCreatorENANO_1.java" md5: 4f8cea1da6c98c1ecf316b73a5730471
+endProcessing "net/mcreator/armes/MCreatorENANO_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorENANO_2.java" md5: bf1eb6fc1ba70480d1857157c1440d78
+endProcessing "net/mcreator/armes/MCreatorENANO_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorENANO_3.java" md5: d57fd86d1a67b6eb8778783e416499cd
+endProcessing "net/mcreator/armes/MCreatorENANO_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorENANO_4.java" md5: b6c5b9bef573beb4a58ea58d5d3cadc4
+endProcessing "net/mcreator/armes/MCreatorENANO_4.java"
+
+startProcessing "net/mcreator/armes/MCreatorENANO_5.java" md5: 86a1d8d52b2b3314f5cb575861cdb794
+endProcessing "net/mcreator/armes/MCreatorENANO_5.java"
+
+startProcessing "net/mcreator/armes/MCreatorENANO_6.java" md5: ea1736dde5919de5ede865fc0284b53d
+endProcessing "net/mcreator/armes/MCreatorENANO_6.java"
+
+startProcessing "net/mcreator/armes/MCreatorENANO_7.java" md5: 47e832b33b0d4915814adadd88570265
+endProcessing "net/mcreator/armes/MCreatorENANO_7.java"
+
+startProcessing "net/mcreator/armes/MCreatorENANO_8.java" md5: 3c12743726d85824fe563c9228735c64
+endProcessing "net/mcreator/armes/MCreatorENANO_8.java"
+
+startProcessing "net/mcreator/armes/MCreatorENANO_9.java" md5: df306cdc7b65a97640b30885879bd45f
+endProcessing "net/mcreator/armes/MCreatorENANO_9.java"
+
+startProcessing "net/mcreator/armes/MCreatorHUMANA_1.java" md5: cb50f7709cf5e6450ed360c38975ba4a
+endProcessing "net/mcreator/armes/MCreatorHUMANA_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorHUMANA_2.java" md5: 58dca1f00c0c22a5dd50f4ff4c1b8670
+endProcessing "net/mcreator/armes/MCreatorHUMANA_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorHUMANA_3.java" md5: b2ab9bbe47f8e949a8897180b442b481
+endProcessing "net/mcreator/armes/MCreatorHUMANA_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorHUMANA_4.java" md5: f88337a544030c2b52e38dc0c8745b6d
+endProcessing "net/mcreator/armes/MCreatorHUMANA_4.java"
+
+startProcessing "net/mcreator/armes/MCreatorHUMANA_5.java" md5: 264f862cb2fd2e2b05acca95aeb42386
+endProcessing "net/mcreator/armes/MCreatorHUMANA_5.java"
+
+startProcessing "net/mcreator/armes/MCreatorHUMANA_6.java" md5: 55e8061fdb9a804c48af8c1b11b7752a
+endProcessing "net/mcreator/armes/MCreatorHUMANA_6.java"
+
+startProcessing "net/mcreator/armes/MCreatorHUMANA_7.java" md5: 2877c9ed5bbe86132ef0cedfaa01c131
+endProcessing "net/mcreator/armes/MCreatorHUMANA_7.java"
+
+startProcessing "net/mcreator/armes/MCreatorHUMANA_8.java" md5: 6a8c77c427cd07bacd84fc13120033c4
+endProcessing "net/mcreator/armes/MCreatorHUMANA_8.java"
+
+startProcessing "net/mcreator/armes/MCreatorHUMANA_9.java" md5: 5e8fa9fa9005d2adbad7bcb65c9c4a5a
+endProcessing "net/mcreator/armes/MCreatorHUMANA_9.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadAracne_1.java" md5: 673930d5dd7dcab6be9f121a9d72019a
+endProcessing "net/mcreator/armes/MCreatorLealtadAracne_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadAracne_2.java" md5: 3e2f6264cc01c16e56077c538b3a5e52
+endProcessing "net/mcreator/armes/MCreatorLealtadAracne_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadAracne_3.java" md5: 50afc8871b3d2fa37c68cdaf61d1660c
+endProcessing "net/mcreator/armes/MCreatorLealtadAracne_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadElfica_1.java" md5: 55cb138741cf7754ce4c15c8d48cda36
+endProcessing "net/mcreator/armes/MCreatorLealtadElfica_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadElfica_2.java" md5: f4eb60b5dd7c3332c7e49734ac0e8900
+endProcessing "net/mcreator/armes/MCreatorLealtadElfica_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadElfica_3.java" md5: 0470278b234de7095c01533925cb479c
+endProcessing "net/mcreator/armes/MCreatorLealtadElfica_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadEnana_1.java" md5: cefd11b3de5b88f2f593789d18f4422f
+endProcessing "net/mcreator/armes/MCreatorLealtadEnana_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadEnana_2.java" md5: 7d6542a150d0b6e553979ecdfd80533b
+endProcessing "net/mcreator/armes/MCreatorLealtadEnana_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadEnana_3.java" md5: 6c0fb2dab14ae1b0ab0c2afd38773f2a
+endProcessing "net/mcreator/armes/MCreatorLealtadEnana_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadEquina_1.java" md5: a27bb007b2cb526d468498e760b89d82
+endProcessing "net/mcreator/armes/MCreatorLealtadEquina_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadEquina_2.java" md5: 4d149956a7b9ea15d1e4bf132a297ebe
+endProcessing "net/mcreator/armes/MCreatorLealtadEquina_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadEquina_3.java" md5: 5cd05d5a2da3bcf2bd1d760c010cbcd4
+endProcessing "net/mcreator/armes/MCreatorLealtadEquina_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadNaga_1.java" md5: a370e360f927d680c7e135a422d207d2
+endProcessing "net/mcreator/armes/MCreatorLealtadNaga_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadNaga_2.java" md5: 4615c15d50ac300dfca4e4b051cb8ebe
+endProcessing "net/mcreator/armes/MCreatorLealtadNaga_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadNaga_3.java" md5: 50b0982bcf4d8818df45b62b313a8ca0
+endProcessing "net/mcreator/armes/MCreatorLealtadNaga_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadNortena1.java" md5: 383e6ff7243fed9745dc276334c6ac0e
+endProcessing "net/mcreator/armes/MCreatorLealtadNortena1.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadNortena_2.java" md5: 6a03eca3ca80be15493dad5a159ce411
+endProcessing "net/mcreator/armes/MCreatorLealtadNortena_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadNortena_3.java" md5: aa66d2e9cc0c9013d496b45e15a4f962
+endProcessing "net/mcreator/armes/MCreatorLealtadNortena_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadOrca_1.java" md5: 7cf9baa14bfc6e938c488f7d7d50d08b
+endProcessing "net/mcreator/armes/MCreatorLealtadOrca_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadOrca_2.java" md5: 61c6ef0d3acd8b0d5459f0a91c8fdc60
+endProcessing "net/mcreator/armes/MCreatorLealtadOrca_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadOrca_3.java" md5: 5fb8a11e2f585d81188b4c61ab0be271
+endProcessing "net/mcreator/armes/MCreatorLealtadOrca_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadTaurina_1.java" md5: adf8a1d1d6909dcfb404ab349a55947c
+endProcessing "net/mcreator/armes/MCreatorLealtadTaurina_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadTaurina_2.java" md5: 01765849f51c1fc65620211b15126c67
+endProcessing "net/mcreator/armes/MCreatorLealtadTaurina_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorLealtadTaurina_3.java" md5: 94cb4dba8d0877fd8be2754411442c89
+endProcessing "net/mcreator/armes/MCreatorLealtadTaurina_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorMINOTAURO_1.java" md5: b920bd0f5f528870e4d6c7fdff7ba225
+endProcessing "net/mcreator/armes/MCreatorMINOTAURO_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorMINOTAURO_2.java" md5: b8412e33b1eeed9cc1a1711214e23dc7
+endProcessing "net/mcreator/armes/MCreatorMINOTAURO_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorMINOTAURO_3.java" md5: da31940e9c1f6f9bbbfd8f6553a100ea
+endProcessing "net/mcreator/armes/MCreatorMINOTAURO_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorMINOTAURO_4.java" md5: db1988695fa4c0b31133975dde4ff1bf
+endProcessing "net/mcreator/armes/MCreatorMINOTAURO_4.java"
+
+startProcessing "net/mcreator/armes/MCreatorMINOTAURO_5.java" md5: 2cc6037e615bedc37c8e57f8a4ba9072
+endProcessing "net/mcreator/armes/MCreatorMINOTAURO_5.java"
+
+startProcessing "net/mcreator/armes/MCreatorMINOTAURO_6.java" md5: 23807892863a562ec6c8b5937c9b9264
+endProcessing "net/mcreator/armes/MCreatorMINOTAURO_6.java"
+
+startProcessing "net/mcreator/armes/MCreatorMINOTAURO_7.java" md5: a45752fd7ad33d9e6a076f29c79b9b42
+endProcessing "net/mcreator/armes/MCreatorMINOTAURO_7.java"
+
+startProcessing "net/mcreator/armes/MCreatorMINOTAURO_8.java" md5: 36db59d4b6a2093250381f4468ccd34b
+endProcessing "net/mcreator/armes/MCreatorMINOTAURO_8.java"
+
+startProcessing "net/mcreator/armes/MCreatorMINOTAURO_9.java" md5: 47c2a004be5fe2b564aa91a12bd96614
+endProcessing "net/mcreator/armes/MCreatorMINOTAURO_9.java"
+
+startProcessing "net/mcreator/armes/MCreatorNAGA_1.java" md5: 8c0d52a752001a32bc91ff7a276dd6a7
+endProcessing "net/mcreator/armes/MCreatorNAGA_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorNAGA_2.java" md5: 4d3eeaa0e172d49932f58f4c3c749868
+endProcessing "net/mcreator/armes/MCreatorNAGA_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorNAGA_3.java" md5: dcfbd4bb8cb544cb2088752969fc03e1
+endProcessing "net/mcreator/armes/MCreatorNAGA_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorNAGA_4.java" md5: d266df7a3e6188b7e91c749b3d744b8c
+endProcessing "net/mcreator/armes/MCreatorNAGA_4.java"
+
+startProcessing "net/mcreator/armes/MCreatorNAGA_5.java" md5: 93c23eb3abfbbe93af40e136f417d90f
+endProcessing "net/mcreator/armes/MCreatorNAGA_5.java"
+
+startProcessing "net/mcreator/armes/MCreatorNAGA_6.java" md5: a8120bafbe47ec8de7a71b436d3be75a
+endProcessing "net/mcreator/armes/MCreatorNAGA_6.java"
+
+startProcessing "net/mcreator/armes/MCreatorNAGA_7.java" md5: bc27fab46828645d8cbee7f06ad0e8e1
+endProcessing "net/mcreator/armes/MCreatorNAGA_7.java"
+
+startProcessing "net/mcreator/armes/MCreatorNAGA_8.java" md5: 5d47c6dd9bbdfedf2d11c4f228158e36
+endProcessing "net/mcreator/armes/MCreatorNAGA_8.java"
+
+startProcessing "net/mcreator/armes/MCreatorNAGA_9.java" md5: a24854f1238b4ffe4d96195252571114
+endProcessing "net/mcreator/armes/MCreatorNAGA_9.java"
+
+startProcessing "net/mcreator/armes/MCreatorORCO_1.java" md5: 8dc5bd1f1644bf122c19c76d39ca3e88
+endProcessing "net/mcreator/armes/MCreatorORCO_1.java"
+
+startProcessing "net/mcreator/armes/MCreatorORCO_2.java" md5: 0ce11df7819741054f803b8687b91e5c
+endProcessing "net/mcreator/armes/MCreatorORCO_2.java"
+
+startProcessing "net/mcreator/armes/MCreatorORCO_3.java" md5: 5c6188d00397bddd038292252d56e664
+endProcessing "net/mcreator/armes/MCreatorORCO_3.java"
+
+startProcessing "net/mcreator/armes/MCreatorORCO_4.java" md5: 67b1ef33246ba85bec688fe20b284a6a
+endProcessing "net/mcreator/armes/MCreatorORCO_4.java"
+
+startProcessing "net/mcreator/armes/MCreatorORCO_5.java" md5: 91a5908c7f3208ba185df0654ef4f333
+endProcessing "net/mcreator/armes/MCreatorORCO_5.java"
+
+startProcessing "net/mcreator/armes/MCreatorORCO_6.java" md5: 1d8f6ca16d172190512063ffb1c955b7
+endProcessing "net/mcreator/armes/MCreatorORCO_6.java"
+
+startProcessing "net/mcreator/armes/MCreatorORCO_7.java" md5: 2030162ce5e9c5efa527fb65522126fb
+endProcessing "net/mcreator/armes/MCreatorORCO_7.java"
+
+startProcessing "net/mcreator/armes/MCreatorORCO_8.java" md5: 63201c77e3997a040f70e53c70643ea3
+endProcessing "net/mcreator/armes/MCreatorORCO_8.java"
+
+startProcessing "net/mcreator/armes/MCreatorORCO_9.java" md5: ce030d859d9feaf4a12db13445e08690
+endProcessing "net/mcreator/armes/MCreatorORCO_9.java"
+
+startProcessing "net/mcreator/armes/ServerProxyarmes.java" md5: e861eab1865ae36a2ab13fe51b7996d5
+endProcessing "net/mcreator/armes/ServerProxyarmes.java"
+
+startProcessing "net/mcreator/armes/armes.java" md5: e145aa9c0e81b70e7b2f5880b619e526
+endProcessing "net/mcreator/armes/armes.java"
+
+startProcessing "net/mcreator/armes/armesVariables.java" md5: b4504c4def82f2dbb6383c6181b60d38
+endProcessing "net/mcreator/armes/armesVariables.java"
+
